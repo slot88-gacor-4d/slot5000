@@ -3234,7 +3234,9 @@ img.rounded {
 }
 
 @media (max-width: 420px) {
-    
+.nk-navbar.nk-navbar-top .nk-nav-logo{
+	display: none;
+}
 
 .nk-navbar a {
     color: inherit;
